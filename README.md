@@ -21,4 +21,4 @@ Play volumetric video in VR
 ### [cymo](https://github.com/gillescadet/cymo) - 2010
 
 Explore a virtual museum in 3D with others
-- C++ | Adaptive Streaming, Multi-Player, Ogre 3D, VoIP
+- C++ | Multimedia Streaming, Multi-Player, Ogre 3D, VoIP
