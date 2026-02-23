@@ -18,7 +18,7 @@ Drive a cart with a VR headset
 Play volumetric video in VR
 - C++ | Unreal Engine, Virtual Reality, Volumetric Video
 
-### [cymo](Documents/virtual_museum_2010.pdf) - 2010
+### [cymo](https://github.com/gillescadet/cymo) - 2010
 
 Explore a virtual museum in 3D with others
-- C++ | Adaptive Streaming, Live Chat, Multi-Player, Ogre 3D
+- C++ | Adaptive Streaming, Multi-Player, Ogre 3D, VoIP
